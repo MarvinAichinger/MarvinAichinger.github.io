@@ -87,53 +87,6 @@ content {
 	text-decoration: underline;
 }
 
-/**Content 2 **/
-#content2 {
-	display: flex;
-	flex-direction: column;
-	height: 100vh;
-	justify-content: space-around;
-}
-
-
-/** Aktuelle Schule **/
-#aktuellerAusbildungsort {
-	background-color: #173840;
-	width: 80vw;
-	height: 30vh;
-	color: #fff;
-	font-size: 1.3vw;
-	
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: space-around;
-}
-
-#aktuellerAusbildungsort img {
-	width: 30vw;
-	height: 30vh;
-}
-
-/** Gesamte Ausbildung **/
-#gesamteAusbildung {
-	background-color: #173840;
-	width: 80vw;
-	height: 30vh;
-	color: #fff;
-	font-size: 1.3vw;
-	margin-left: 18.9vw;
-	
-	display: flex;
-	flex-direction: row;
-	align-items: center;
-	justify-content: space-around;
-}
-
-#gesamteAusbildung img {
-	width: 30vw;
-	height: 30vh;
-}
 
 
 
