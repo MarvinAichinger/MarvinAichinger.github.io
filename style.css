@@ -160,6 +160,18 @@ hr {
 /** Handy **/
 @media (max-width: 996px) {
 	
+	nav {
+		background-color: #173840;
+		width: 100%;
+		height: 16vh;
+		margin-top: 0;
+		
+		display: flex;
+		flex-direction: row;
+		justify-content: space-between;
+		align-items: center;
+	}
+	
 	#headline {
 		color: #fff;
 		margin: 0;
@@ -171,7 +183,7 @@ hr {
 		margin: 0;
 		color: #fff;
 		margin-left: 2vw;
-		font-size: 2.5vw;
+		font-size: 3.5vw;
 	}
 	
 	#allgemein {
@@ -192,19 +204,19 @@ hr {
 		margin-top: 10vw;
 		width: 90vw;
 		height: 40vh;
-		font-size: 3.25vw;
+		font-size: 3.5vw;
 		text-decoration: none;
 	}
 
 	#allgemeineInfos tr td a{
 		color: #fff;
-		font-size: 3.25vw;
+		font-size: 3.5vw;
 		text-decoration: none;
 	}
 
 	#allgemeineInfos tr td a:hover{
 		color: #fff;
-		font-size: 3.25vw;
+		font-size: 3.5vw;
 		text-decoration: underline;
 	}
 	
@@ -217,7 +229,7 @@ hr {
 	
 	#ausbildungText {
 		color: #fff;
-		font-size: 3vw;
+		font-size: 3.5vw;
 		margin-left: 10vw;
 		margin-bottom: 4vw;
 		width: 60vw;
@@ -225,17 +237,17 @@ hr {
 
 	#ausbildungText a {
 		color: #fff;
-		font-size: 3vw;
+		font-size: 3.5vw;
 	}
 
 	#ausbildungText a:hover {
 		color: #dddddd;
-		font-size: 3vw;
+		font-size: 3.5vw;
 	}
 
 	#contentHeadline {
 		color: #fff;
-		font-size: 3.75vw;
+		font-size: 4vw;
 		font-weight: bold;
 		text-align: center;
 		width: 100%;
@@ -244,7 +256,7 @@ hr {
 	hr {
 		width: 80vw;
 		border-style: solid;
-		border-width: 0.3vw;
+		border-width: 0.2vw;
 		border-color: #fff;
 		color: #fff;
 	}
