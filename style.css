@@ -4,11 +4,10 @@
 5be0ff
 **/
 
-
 /** Allgemeine Optionen **/
 body {
 	margin: 0;
-	font-family: sans-serif;
+	font-family: 'Nunito', sans-serif;
 }
 
 nav {
@@ -18,8 +17,9 @@ nav {
 	margin-top: 0;
 	
 	display: flex;
-	flex-direction: column;
-	justify-content: center;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
 }
 
 content {
@@ -36,7 +36,6 @@ content {
 	color: #fff;
 	margin: 0;
 	margin-left: 2vw;
-	font-family: sans-serif;
 	font-size: 2vw;
 }
 
@@ -44,7 +43,7 @@ content {
 	margin: 0;
 	color: #fff;
 	margin-left: 2vw;
-	font-family: sans-serif;
+	font-size: 1vw;
 }
 
 
@@ -74,20 +73,196 @@ content {
 	width: 40vw;
 	height: 40vh;
 	font-size: 1.3vw;
+	text-decoration: none;
 }
 
+#allgemeineInfos tr td a{
+	color: #fff;
+	font-size: 1.3vw;
+	text-decoration: none;
+}
+
+#allgemeineInfos tr td a:hover{
+	color: #fff;
+	font-size: 1.3vw;
+	text-decoration: underline;
+}
 
 /**Links: **/
 .HTLLeonding {
 	color: #fff;
 	text-decoration: none;
+	width: 20vw;
 }
 
 .HTLLeonding:hover {
 	text-decoration: underline;
 }
 
+/**Icons: **/
+#headerIcon {
+	margin-right: 3vw;
+	font-size: 2.5vw;
+}
 
+#icon1 {
+	font-size: 2.5vw;
+}
+#icon2 {
+	font-size: 2.5vw;
+}
+#icon3 {
+	font-size: 2.5vw;
+}
+
+/** Ausbildung **/
+hr {
+	width: 60vw;
+	border-style: solid;
+	border-width: 0.1vw;
+	border-color: #fff;
+	color: #fff;
+}
+
+#ausbildung {
+	width: 80vw;
+	background-color: #173840;
+	margin-top: 5vw;
+	margin-bottom: 5vw;
+}
+
+#ausbildungText {
+	color: #fff;
+	font-size: 1.1vw;
+	margin-left: 10vw;
+	margin-bottom: 3vw;
+	width: 60vw;
+}
+
+#ausbildungText a {
+	color: #fff;
+	font-size: 1.1vw;
+}
+
+#ausbildungText a:hover {
+	color: #dddddd;
+	font-size: 1.1vw;
+}
+
+#contentHeadline {
+	color: #fff;
+	font-size: 1.5vw;
+	font-weight: bold;
+	text-align: center;
+	width: 100%;
+}
+
+/** Handy **/
+@media (max-width: 996px) {
+	
+	#headline {
+		color: #fff;
+		margin: 0;
+		margin-left: 2vw;
+		font-size: 5vw;
+	}
+	
+	#underheadline {
+		margin: 0;
+		color: #fff;
+		margin-left: 2vw;
+		font-size: 2.5vw;
+	}
+	
+	#allgemein {
+		background-color: #173840;
+		width: 95vw;
+		height: 60vh;
+		margin-bottom: 2vw;
+		margin-top: -6vw;
+		z-index: 5;
+		
+		display: flex;
+		flex-direction: row;
+		justify-content: center;
+	}
+
+	#allgemeineInfos {
+		color: #fff;
+		margin-top: 10vw;
+		width: 90vw;
+		height: 40vh;
+		font-size: 3.25vw;
+		text-decoration: none;
+	}
+
+	#allgemeineInfos tr td a{
+		color: #fff;
+		font-size: 3.25vw;
+		text-decoration: none;
+	}
+
+	#allgemeineInfos tr td a:hover{
+		color: #fff;
+		font-size: 3.25vw;
+		text-decoration: underline;
+	}
+	
+	#ausbildung {
+		width: 90vw;
+		background-color: #173840;
+		margin-top: 5vw;
+		margin-bottom: 5vw;
+	}
+	
+	#ausbildungText {
+		color: #fff;
+		font-size: 2.75vw;
+		margin-left: 10vw;
+		margin-bottom: 3vw;
+		width: 60vw;
+	}
+
+	#ausbildungText a {
+		color: #fff;
+		font-size: 2.75vw;
+	}
+
+	#ausbildungText a:hover {
+		color: #dddddd;
+		font-size: 2.75vw;
+	}
+
+	#contentHeadline {
+		color: #fff;
+		font-size: 3.75vw;
+		font-weight: bold;
+		text-align: center;
+		width: 100%;
+	}
+	
+	hr {
+		width: 60vw;
+		border-style: solid;
+		border-width: 0.4vw;
+		border-color: #fff;
+		color: #fff;
+	}
+	
+	#headerIcon {
+		font-size: 6.25vw;
+	}
+	
+	#icon1 {
+		font-size: 6.25vw;
+	}
+	#icon2 {
+		font-size: 6.25vw;
+	}
+	#icon3 {
+		font-size: 6.25vw;
+	}
+}
 
 
 
