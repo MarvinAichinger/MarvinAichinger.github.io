@@ -179,7 +179,7 @@ hr {
 		width: 95vw;
 		height: 60vh;
 		margin-bottom: 2vw;
-		margin-top: -6vw;
+		margin-top: -10vw;
 		z-index: 5;
 		
 		display: flex;
@@ -217,20 +217,20 @@ hr {
 	
 	#ausbildungText {
 		color: #fff;
-		font-size: 2.75vw;
+		font-size: 3vw;
 		margin-left: 10vw;
-		margin-bottom: 3vw;
+		margin-bottom: 4vw;
 		width: 60vw;
 	}
 
 	#ausbildungText a {
 		color: #fff;
-		font-size: 2.75vw;
+		font-size: 3vw;
 	}
 
 	#ausbildungText a:hover {
 		color: #dddddd;
-		font-size: 2.75vw;
+		font-size: 3vw;
 	}
 
 	#contentHeadline {
@@ -242,9 +242,9 @@ hr {
 	}
 	
 	hr {
-		width: 60vw;
+		width: 80vw;
 		border-style: solid;
-		border-width: 0.4vw;
+		border-width: 0.3vw;
 		border-color: #fff;
 		color: #fff;
 	}
@@ -261,6 +261,12 @@ hr {
 	}
 	#icon3 {
 		font-size: 6.25vw;
+	}
+	
+	#profileImg {
+		width: 50vw;
+		border-radius: 500px;
+		z-index: 10;
 	}
 }
 
