@@ -1,6 +1,7 @@
 ﻿Fragen zum Modul „Atemschutz“ 
 
-1. Welche Voraussetzungen müssen von einem*einer Atemschutzgeräteträger*in erfüllt werden? 
+---
+Welche Voraussetzungen müssen von einem*einer Atemschutzgeräteträger*in erfüllt werden? 
 
 ✓ Mindestalter 18 Jahre 
 
@@ -14,7 +15,8 @@
 
  
 
-2. Welche wiederkehrenden Tätigkeiten hat ein*e Atemschutzgeräteträger*in zu leisten? 
+---
+Welche wiederkehrenden Tätigkeiten hat ein*e Atemschutzgeräteträger*in zu leisten? 
 
 ✓ Teilnahme an mindestens zwei (Einsatz-) Übungen pro Jahr unter schwerem 
 Atemschutz 
@@ -26,7 +28,8 @@ Lebensjahr bis 50 alle 3 Jahre und ab 50. Lebensjahr alle 2 Jahre)
 
  
 
-3. Aus wie vielen Personen und welchen Funktionen besteht ein Atemschutztrupp? 
+---
+Aus wie vielen Personen und welchen Funktionen besteht ein Atemschutztrupp? 
 
 ✓ Regelfall 3 Personen; bei Gefahr in Verzug und im Außenbereich 2 
 Personen; im Tunneleinsatz 7 Personen (komplette Fahrzeugbesatzung) 
@@ -35,7 +38,8 @@ Personen; im Tunneleinsatz 7 Personen (komplette Fahrzeugbesatzung)
 
 
 
-4. Nenne 5 Ausrüstungsgegenstände für einen Atemschutztrupp. 
+---
+Nenne 5 Ausrüstungsgegenstände für einen Atemschutztrupp. 
 
 ✓ Atemschutzgerät (Pressluftatmer, …) 
 
@@ -71,7 +75,8 @@ Personen; im Tunneleinsatz 7 Personen (komplette Fahrzeugbesatzung)
 
  
 
-5. Welche Aufgaben hat die Atemschutzüberwachung (ASÜ), wer ist dafür verantwortlich und wer führt sie durch? 
+---
+Welche Aufgaben hat die Atemschutzüberwachung (ASÜ), wer ist dafür verantwortlich und wer führt sie durch? 
 
 ✓ Aufgaben: Überwachung des Atemschutztrupps, Kontrolle und Unterstützung 
 der eingesetzten Atemschutztrupps 
@@ -82,7 +87,8 @@ der eingesetzten Atemschutztrupps
 
  
 
-6. Wann benötigt man einen Atemschutzsammelplatz (ASSP), wie wird dieser gekennzeichnet und was sind die Aufgaben? 
+---
+Wann benötigt man einen Atemschutzsammelplatz (ASSP), wie wird dieser gekennzeichnet und was sind die Aufgaben? 
 
 ✓ Wird bei größeren Einsätzen benötigt 
 
@@ -98,7 +104,8 @@ Versorgung für Atemschutzgeräteträger*innen organisieren (Getränke, …)
 
  
 
-7. Welche Möglichkeiten hast du, die Atemschutzgeräteträger*innen während der Anfahrt und am Einsatzort zu unterstützen? 
+---
+Welche Möglichkeiten hast du, die Atemschutzgeräteträger*innen während der Anfahrt und am Einsatzort zu unterstützen? 
 
 ✓ Während der Anfahrt: 
 Aufnahme der Daten für die Atemschutzüberwachung (ASÜ) 
@@ -111,20 +118,23 @@ Wärmebildkamera, …)
 Aufbau der Schlauchleitung 
 
 
-8. Wozu wird ein Rettungstrupp im Atemschutzeinsatz benötigt? 
+---
+Wozu wird ein Rettungstrupp im Atemschutzeinsatz benötigt? 
 
 ✓ Stellt die Sicherheit für einen im Einsatz befindlichen Atemschutztrupp dar 
 und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch 
 
  
 
-9. Wozu wird ein Reservetrupp im Atemschutzeinsatz benötigt? 
+---
+Wozu wird ein Reservetrupp im Atemschutzeinsatz benötigt? 
 
 ✓ Dient zur Ablösung eines Atemschutztrupps bei längeren Einsätzen 
 
  
 
-10. Welche Arten von Atemgiften gibt es? 
+---
+Welche Arten von Atemgiften gibt es? 
 
 ✓ Atemgifte mit Reiz- und Ätzwirkung 
 
@@ -134,7 +144,8 @@ und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch
 
  
 
-11. Nenne ein Beispiel für Atemgifte mit Reiz- und Ätzwirkung? 
+---
+Nenne ein Beispiel für Atemgifte mit Reiz- und Ätzwirkung? 
 
 ✓ Säure- und Laugendämpfe 
 
@@ -146,7 +157,8 @@ und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch
 
  
 
-12. Nenne 1 Beispiel für Atemgifte mit erstickender Wirkung? 
+---
+Nenne 1 Beispiel für Atemgifte mit erstickender Wirkung? 
 
 ✓ Stickstoff 
 
@@ -160,7 +172,8 @@ und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch
 
  
 
-13. Nenne 1 Beispiel für Atemgifte die auf Blut-, Nerven- und Zellen wirken? 
+---
+Nenne 1 Beispiel für Atemgifte die auf Blut-, Nerven- und Zellen wirken? 
 
 ✓ Kohlenmonoxid 
 
@@ -172,7 +185,8 @@ und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch
 
  
 
-14. Welche Arten von Atemschutzgeräten gibt es? 
+---
+Welche Arten von Atemschutzgeräten gibt es? 
 
 ✓ Umluftabhängige Atemschutzgeräte 
 
@@ -180,7 +194,8 @@ und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch
 
 
  
-15. Für welche Zwecke ist eine Staubmaske unter anderem zu tragen? 
+---
+Für welche Zwecke ist eine Staubmaske unter anderem zu tragen? 
 
 ✓ Entfernung von Glasscheiben 
 
@@ -188,7 +203,8 @@ und führt im Anlassfall die Rettung des verunfallten Atemschutztrupps durch
 
  
 
-16. Welche Voraussetzungen müssen für den Einsatz von leichtem Atemschutz gegeben sein? 
+---
+Welche Voraussetzungen müssen für den Einsatz von leichtem Atemschutz gegeben sein? 
 
 ✓ Genügend Sauerstoff in der Umgebungsatmosphäre (mind. 17 %) 
 
@@ -200,7 +216,8 @@ maximale Filterwirkung nicht
 
  
 
-17. Vor welchen Gefahren kann leichter Atemschutz nicht schützen? 
+---
+Vor welchen Gefahren kann leichter Atemschutz nicht schützen? 
 
 ✓ Kohlenmonoxid 
 
@@ -208,7 +225,8 @@ maximale Filterwirkung nicht
 
  
 
-18. Welche Einsatzmöglichkeiten gibt es für den leichten Atemschutz? 
+---
+Welche Einsatzmöglichkeiten gibt es für den leichten Atemschutz? 
 
 ✓ Löscharbeiten im Freien 
 
@@ -220,7 +238,8 @@ maximale Filterwirkung nicht
 
  
 
-19. Mit welcher Einsatzdauer kann beim Einsatz von schwerem Atemschutz (Pressluftatmer) gerechnet werden? 
+---
+Mit welcher Einsatzdauer kann beim Einsatz von schwerem Atemschutz (Pressluftatmer) gerechnet werden? 
 
 ✓ 2*4 Liter, 1*6 Liter und 1*6,8 Liter: ca. 20-25 Minuten 
 
@@ -228,7 +247,8 @@ maximale Filterwirkung nicht
 
  
 
-20. Aus welchen Bestandteilen besteht der schwere Atemschutz (Pressluftatmer)? 
+---
+Aus welchen Bestandteilen besteht der schwere Atemschutz (Pressluftatmer)? 
 
 ✓ Begurtung 
 
@@ -245,7 +265,8 @@ maximale Filterwirkung nicht
 ✓ Manometer 
 
  
-21. Auf was ist beim Transport von Atemluftflaschen außerhalb der vorgesehenen Halterungen zu achten? 
+---
+Auf was ist beim Transport von Atemluftflaschen außerhalb der vorgesehenen Halterungen zu achten? 
 
 ✓ Flaschentransportbox 
 
@@ -259,7 +280,8 @@ maximale Filterwirkung nicht
 
 Fragen zum Modul „Branddienst“ 
 
-22. Welche Eigenschaften hat Holz im Brandfall?  
+---
+Welche Eigenschaften hat Holz im Brandfall?  
 
 ✓ Abbrandrate liegt bei ca. 1 mm/min 
 
@@ -269,7 +291,8 @@ Fragen zum Modul „Branddienst“
 
  
 
-23. Welche Eigenschaften hat Stahl im Brandfall? 
+---
+Welche Eigenschaften hat Stahl im Brandfall? 
 
 ✓ Sehr guter Wärmeleiter 
 
@@ -281,7 +304,8 @@ Fragen zum Modul „Branddienst“
 
  
 
-24. Welche Gefahren können bei Bränden von Gebäudeteilen drohen?  
+---
+Welche Gefahren können bei Bränden von Gebäudeteilen drohen?  
 
 ✓ Einsturzgefahr von Wänden 
 
@@ -291,26 +315,30 @@ Fragen zum Modul „Branddienst“
 
  
 
-25. Erkläre den Begriff Oxidation. 
+---
+Erkläre den Begriff Oxidation. 
 
 ✓ Chemische Reaktion / Verbindung eines Stoffes mit Sauerstoff 
 
  
 
-26. Erkläre den Begriff Feuer / Verbrennung. 
+---
+Erkläre den Begriff Feuer / Verbrennung. 
 
 ✓ Oxidation mit Flammenerscheinung 
 
  
 
-27. Erkläre den Begriff Pyrolyse. 
+---
+Erkläre den Begriff Pyrolyse. 
 
 ✓ Thermo-chemische Spaltung organischer Verbindungen aufgrund von 
 Temperatureinwirkung 
 
  
 
-28. Was versteht man unter dem Begriff brennstoffgesteuerter Brand? 
+---
+Was versteht man unter dem Begriff brennstoffgesteuerter Brand? 
 
 ✓ Es ist ausreichend Sauerstoff vorhanden 
 
@@ -318,7 +346,8 @@ Temperatureinwirkung
 
  
 
-29. Was versteht man unter dem Begriff ventilationsgesteuerter Brand? 
+---
+Was versteht man unter dem Begriff ventilationsgesteuerter Brand? 
 
 ✓ Es ist ausreichend Brandlast vorhanden 
 
@@ -326,7 +355,8 @@ Temperatureinwirkung
 
  
 
-30. Erkläre das Brandphänomen Flash-Over / Raumdurchzündung. 
+---
+Erkläre das Brandphänomen Flash-Over / Raumdurchzündung. 
 
 ✓ Übergang vom Entstehungsbrand in die Vollbrandphase 
 
@@ -336,7 +366,8 @@ Temperatureinwirkung
 
  
 
-31. Erkläre das Brandphänomen Backdraft / Rauchgasexplosion. 
+---
+Erkläre das Brandphänomen Backdraft / Rauchgasexplosion. 
 
 ✓ Schlagartiges abbrennen von nicht verbrannten Pyrolysegasen bei der 
 Zuführung von Sauerstoff 
@@ -349,7 +380,8 @@ Zuführung von Sauerstoff
 
  
 
-32. Erkläre folgende Begriffe: 
+---
+Erkläre folgende Begriffe: 
 
 ✓ Zuluftöffnung = Eintritt des Luftstroms  
 
@@ -362,7 +394,8 @@ Rauchgase in rauchfreie Gebäudeteile
 
  
 
-33. Erkläre die Grundregeln für eine taktische Ventilation. 
+---
+Erkläre die Grundregeln für eine taktische Ventilation. 
 
 ✓ Koordination und Durchführung der Belüftung nur auf Befehl des 
 Gruppenkommandanten bzw. der Gruppenkommandantin 
@@ -381,7 +414,8 @@ verwendet werden
 
 
  
-34. Welche Deckungsbreiten sollen bei einem Löschangriff beachtet werden?  
+---
+Welche Deckungsbreiten sollen bei einem Löschangriff beachtet werden?  
 
 ✓ C-Rohr 10 / 15 m  
 
@@ -389,7 +423,8 @@ verwendet werden
 
  
 
-35. Was ist beim Löschangriff mit Schaum zu beachten?  
+---
+Was ist beim Löschangriff mit Schaum zu beachten?  
 
 ✓ Spannungsfreiheit in elektrischen Anlagen  
 
@@ -401,7 +436,8 @@ verwendet werden
 
  
 
-36. Welche Vorteile bietet der Einsatz von „Netzwasser“ (Löschwasser + Netzmittel)?  
+---
+Welche Vorteile bietet der Einsatz von „Netzwasser“ (Löschwasser + Netzmittel)?  
 
 ✓ Reduzierung der Oberflächenspannung  
 
@@ -409,7 +445,8 @@ verwendet werden
 
  
 
-37. Wie kann „Netzwasser“ erzeugt werden?  
+---
+Wie kann „Netzwasser“ erzeugt werden?  
 
 ✓ Zumischen von Mehrbereichsschaummittel in sehr geringer Menge (kleiner 
 als 1 %)  
@@ -420,13 +457,15 @@ als 1 %)
 
  
 
-38. Welche Faustformel wird für das Ermitteln der benötigten Schläuche angewendet?  
+---
+Welche Faustformel wird für das Ermitteln der benötigten Schläuche angewendet?  
 
 ✓ 3 + X (3 für das Einstiegsgeschoß, X = jedes weitere Geschoß)  
 
  
 
-39. Wie viele Schläuche sollen mind. in folgenden Einsatzsituationen vorbereitet werden?  
+---
+Wie viele Schläuche sollen mind. in folgenden Einsatzsituationen vorbereitet werden?  
 
 ✓ 2. Stock: mind. 5 C-Schläuche  
 
@@ -436,7 +475,8 @@ als 1 %)
 
  
 
-40.  Für welche Zwecke werden Leitern im Feuerwehrdienst verwendet? 
+---
+ Für welche Zwecke werden Leitern im Feuerwehrdienst verwendet? 
 
 ✓ Rettungsgerät (Personenrettung, Eisrettung, …) 
 
@@ -446,7 +486,8 @@ als 1 %)
 Bockleiter, Schlauchbrücke, …) 
 
  
-41.  Nenne mindestens fünf Einsatzgrundsätze für das Arbeiten mit Leitern. 
+---
+ Nenne mindestens fünf Einsatzgrundsätze für das Arbeiten mit Leitern. 
 
 ✓ Aufstellplatz absichern 
 
@@ -489,13 +530,15 @@ betretenden Bodens zu Prüfen
 
  
 
-42. Bis in welches Stockwerk darf eine trockene Schlauchleitung über die Leiter vorgenommen werden? 
+---
+Bis in welches Stockwerk darf eine trockene Schlauchleitung über die Leiter vorgenommen werden? 
 
 ✓ Maximal bis zum 1. Stockwerk (zweites oberirdisch ausgebautes Geschoß) 
 
  
 
-43. Welche Punkte sind beim Einsteigen von einer Leiter in ein Gebäude zu beachten? 
+---
+Welche Punkte sind beim Einsteigen von einer Leiter in ein Gebäude zu beachten? 
 
 ✓ Kontrolle der „Sitzfläche“ 
 
@@ -507,7 +550,8 @@ betretenden Bodens zu Prüfen
 
  
 
-44. Für das Erreichen eines Fensters ist ein 5. Steckleiterteil notwendig. Ist das zulässig? 
+---
+Für das Erreichen eines Fensters ist ein 5. Steckleiterteil notwendig. Ist das zulässig? 
 
 ✓ NEIN 
 
@@ -516,48 +560,56 @@ betretenden Bodens zu Prüfen
 
 Fragen zum Modul „Funk“ 
 
-45.  Wie wird der Feuerwehrfunk geregelt? 
+---
+ Wie wird der Feuerwehrfunk geregelt? 
 
 ✓ Der Feuerwehrfunk ist gesetzlich und durch Vorschriften geregelt 
 
  
 
-46. Was ist die Hauptaufgabe des Feuerwehrfunkers bzw. der Feuerwehrfunkerin? 
+---
+Was ist die Hauptaufgabe des Feuerwehrfunkers bzw. der Feuerwehrfunkerin? 
 
 ✓ Der*Die Funker*in muss Informationen aufnehmen und absetzen 
 
  
 
-47. Wie werden Fehler bei der Durchgabe von Nachrichten korrigiert? 
+---
+Wie werden Fehler bei der Durchgabe von Nachrichten korrigiert? 
 
 ✓ „Ich berichtige …“ 
 
  
 
-48. Wie lautet der Funkrufname eines Tanklöschfahrzeuges? 
+---
+Wie lautet der Funkrufname eines Tanklöschfahrzeuges? 
 
 ✓ Tank „Name Feuerwehr“ 
 
 
-49. Wie beginnt ein Sammelruf? 
+---
+Wie beginnt ein Sammelruf? 
 
 ✓ „Alle von …“ 
 
  
 
-50. Welche Tätigkeit muss bei einem Einsatz vom ersten eintreffenden Feuerwehrmitglied im Feuerwehrhaus durchgeführt werden? 
+---
+Welche Tätigkeit muss bei einem Einsatz vom ersten eintreffenden Feuerwehrmitglied im Feuerwehrhaus durchgeführt werden? 
 
 ✓ Drücken der F5-Taste am WAS zur Bestätigung des Einsatzbefehls 
 
  
 
-51. Wann wird der Einsatz am WAS beendet? 
+---
+Wann wird der Einsatz am WAS beendet? 
 
 ✓ Nach dem Herstellen der Einsatzbereitschaft 
 
  
 
-52. Welche Vorteile hat ein Pager? 
+---
+Welche Vorteile hat ein Pager? 
 
 ✓ Einzelalarmierung und Gruppenalarmierung möglich 
 
@@ -565,14 +617,16 @@ Fragen zum Modul „Funk“
 
  
 
-53. Wo müssen technische Probleme der WAS-Endstelle gemeldet werden? Wer repariert das Gerät? 
+---
+Wo müssen technische Probleme der WAS-Endstelle gemeldet werden? Wer repariert das Gerät? 
 
 ✓ Meldung beim Oö. Landes-Feuerwehrkommando (Abteilung Funk- und 
 Nachrichtenwesen) - dieses entscheidet über das weitere Vorgehen 
 
  
 
-54. Welche Tätigkeiten sind unbedingt bei einem Priorität A-Einsatz durchzuführen? 
+---
+Welche Tätigkeiten sind unbedingt bei einem Priorität A-Einsatz durchzuführen? 
 
 ✓ F5-Taste drücken 
 
@@ -584,14 +638,16 @@ Nachrichtenwesen) - dieses entscheidet über das weitere Vorgehen
 
  
 
-55. Was ist ein Priorität B-Einsatz? 
+---
+Was ist ein Priorität B-Einsatz? 
 
 ✓ Priorität B-Einsätze sind Einsätze kleineren Ausmaßes wie z.B. Ölspur, 
 Wasserschaden oder Sturmeinsatz 
 
  
 
-56. Ist im Starklastfall, wie z.B. Unwetter, die Florianstation zu besetzen? 
+---
+Ist im Starklastfall, wie z.B. Unwetter, die Florianstation zu besetzen? 
 
 ✓ Ja, auch wenn es sich um einen Priorität B-Einsatz handelt, da weitere 
 Einsatzaufträge ohne Sirene erfolgen und die Einsatzkräfte von einer 
@@ -599,7 +655,8 @@ zentralen Stelle aus koordiniert werden können
 
  
 
-57. Wozu dienen Formulare im Feuerwehrdienst? 
+---
+Wozu dienen Formulare im Feuerwehrdienst? 
 
 ✓ Die Information wird immer in gleicher Form und Qualität erfasst 
 
@@ -609,34 +666,39 @@ zentralen Stelle aus koordiniert werden können
 
  
 
-58. Woher erhält man die Daten für den Bereich „Alarmierungsdaten“ des Einsatzformulars? 
+---
+Woher erhält man die Daten für den Bereich „Alarmierungsdaten“ des Einsatzformulars? 
 
 ✓ Vom Einsatzauftrag der WAS-Endstelle 
 
  
 
-59. Wozu dient das Erfassen der einsatzbezogenen Informationen am Einsatzformular? 
+---
+Wozu dient das Erfassen der einsatzbezogenen Informationen am Einsatzformular? 
 
 ✓ Zur Übersicht während und nach dem Einsatz und als Grundlage für die 
 Erstellung des Einsatzberichtes 
 
  
 
-60. Welche Informationen werden im Einsatzprotokoll erfasst? 
+---
+Welche Informationen werden im Einsatzprotokoll erfasst? 
 
 ✓ Alle Funksprüche, Befehle, Anweisungen und Vorkommnisse, welche meine 
 Einsatzeinheit betreffen 
 
  
 
-61. Was geschieht mit dem Einsatzmeldeformular und Einsatzprotokoll nach dem Einsatz? 
+---
+Was geschieht mit dem Einsatzmeldeformular und Einsatzprotokoll nach dem Einsatz? 
 
 ✓ Es wird mit allen anderen Einsatzunterlagen gesammelt, zur Berichterstellung 
 verwendet und anschließend aufbewahrt 
 
  
 
-62. Aus welchen Hauptgruppen besteht ein Funkgerät? 
+---
+Aus welchen Hauptgruppen besteht ein Funkgerät? 
 
 ✓ Sprechtaste 
 
@@ -654,7 +716,8 @@ verwendet und anschließend aufbewahrt
 
  
 
-63. Erkläre die Betriebsarten TMO und DMO. 
+---
+Erkläre die Betriebsarten TMO und DMO. 
 
 ✓ TMO: „Trunked Mode“ – Netzmodus 
 Gerät ist im Funknetz eingebucht (Normalbetrieb) 
@@ -664,13 +727,15 @@ Kein Netz erforderlich – direkte Kommunikation von Gerät zu Gerät
 
  
 
-64. Welche Sprechgruppen kann der*die Einsatzleiter*in im Starklastfall (Unwetter, Hochwasser, usw.) verwenden? 
+---
+Welche Sprechgruppen kann der*die Einsatzleiter*in im Starklastfall (Unwetter, Hochwasser, usw.) verwenden? 
 
 ✓ Ausweichgruppe des Bezirkes 
 
  
 
-65. Was könnte die Ursache sein, wenn sich ein Fahrzeugfunkgerät bei einem abgestellten Fahrzeug nicht einschalten lässt? 
+---
+Was könnte die Ursache sein, wenn sich ein Fahrzeugfunkgerät bei einem abgestellten Fahrzeug nicht einschalten lässt? 
 
 ✓ Die Batteriespannung reicht zum Betrieb des Funkgerätes nicht aus 
 
@@ -678,7 +743,8 @@ Kein Netz erforderlich – direkte Kommunikation von Gerät zu Gerät
 
  
 
-66. Was ist wichtig bei der Pflege von Funkgeräten bzw. wie schützt man das Gerät vor Schäden? Nenne mindestens drei Hinweise bzw. schädliche Einflüsse. 
+---
+Was ist wichtig bei der Pflege von Funkgeräten bzw. wie schützt man das Gerät vor Schäden? Nenne mindestens drei Hinweise bzw. schädliche Einflüsse. 
 
 ✓ Regelmäßiges Laden und Entladen der AKKUS 
 
@@ -694,7 +760,8 @@ Kein Netz erforderlich – direkte Kommunikation von Gerät zu Gerät
 
 Fragen zum Modul „Gefahrenlehre“ 
 
-67. Nenne die drei wichtigsten Regeln in Bezug auf Gefahren. 
+---
+Nenne die drei wichtigsten Regeln in Bezug auf Gefahren. 
 
 ✓ 4A-1C-4E-Regel 
 
@@ -704,7 +771,8 @@ Fragen zum Modul „Gefahrenlehre“
 
  
 
-68. Wofür stehen die Buchstaben bei der 4A-1C-4E-Regel? 
+---
+Wofür stehen die Buchstaben bei der 4A-1C-4E-Regel? 
 
 ✓ Ausbreitung 
 
@@ -726,7 +794,8 @@ Fragen zum Modul „Gefahrenlehre“
 
  
 
-69. Wofür stehen die Buchstaben bei der 3A-Regel? 
+---
+Wofür stehen die Buchstaben bei der 3A-Regel? 
 
 ✓ Abstand 
 
@@ -736,13 +805,15 @@ Fragen zum Modul „Gefahrenlehre“
 
  
 
-70. Wozu dient die Gefahrenmatrix? 
+---
+Wozu dient die Gefahrenmatrix? 
 
 ✓ Reihung der Gefahren nach Priorität 
 
  
 
-71. Was besagt die GAMS-Regel? 
+---
+Was besagt die GAMS-Regel? 
 
 ✓ Gefahr erkennen 
 
@@ -756,7 +827,8 @@ Fragen zum Modul „Gefahrenlehre“
 
 Fragen zum Modul „Kraftbetriebene Geräte“ 
 
-72. Nenne mindestens drei elektrische Verbraucher, welche deine Feuerwehr besitzt! 
+---
+Nenne mindestens drei elektrische Verbraucher, welche deine Feuerwehr besitzt! 
 
 ✓ Lichtfluter 
 
@@ -774,21 +846,24 @@ Fragen zum Modul „Kraftbetriebene Geräte“
 
  
 
-73. Warum sollen Kabeltrommeln immer vollständig abgerollt werden? 
+---
+Warum sollen Kabeltrommeln immer vollständig abgerollt werden? 
 
 ✓ Es besteht Überhitzungsgefahr im Kabel, wodurch es zum Kurzschluss bzw. 
 Kabelbrand kommen kann 
 
  
 
-74. Worauf ist beim Umgang mit Akkus zu achten? 
+---
+Worauf ist beim Umgang mit Akkus zu achten? 
 
 ✓ Schutz des Akkus vor Nässe, Feuchtigkeit, Hitze, Feuer und direkter 
 Sonneneinstrahlung 
 
  
 
-75. Welche Schutzausrüstung ist beim Arbeiten mit einem Trennschleifer oder einer Säbelsäge zu tragen? 
+---
+Welche Schutzausrüstung ist beim Arbeiten mit einem Trennschleifer oder einer Säbelsäge zu tragen? 
 
 ✓ Schutzbrille 
 
@@ -798,14 +873,16 @@ Sonneneinstrahlung
 
  
 
-76. Wer darf mit der Motorsäge arbeiten? 
+---
+Wer darf mit der Motorsäge arbeiten? 
 
 ✓ Feuerwehrmitglieder mit einer entsprechenden Ausbildung, die sich physisch 
 und psychisch dazu in der Lage fühlen 
 
  
 
-77. Worauf ist beim Umgang mit Motorsägen zu achten? 
+---
+Worauf ist beim Umgang mit Motorsägen zu achten? 
 
 ✓ Verwendung der vorgeschriebenen Schutzausrüstung 
 
@@ -814,14 +891,16 @@ hinweisen
 
  
 
-78. Welche Feuerwehrmitglieder dürfen mit einem hydraulischen Rettungsgerät arbeiten? 
+---
+Welche Feuerwehrmitglieder dürfen mit einem hydraulischen Rettungsgerät arbeiten? 
 
 ✓ Jene Feuerwehrmitglieder, die sich physisch und psychisch in der Lage 
 fühlen und die entsprechende Ausbildung besitzen 
 
  
 
-79. Worauf ist beim Arbeiten mit dem hydraulischen Rettungsgerät zu achten? 
+---
+Worauf ist beim Arbeiten mit dem hydraulischen Rettungsgerät zu achten? 
 
 ✓ Komplette Schutzbekleidung, Helm und Sicherheitshandschuhe verwenden 
 
@@ -829,19 +908,22 @@ fühlen und die entsprechende Ausbildung besitzen
 
  
 
-80. Welcher Treibstoff wird in gelben Kanistern gelagert? 
+---
+Welcher Treibstoff wird in gelben Kanistern gelagert? 
 
 ✓ Fahrzeug-Treibstoff (Diesel) 
 
  
 
-81. Worauf ist beim Einsatz mit einer Tauchpumpe zu achten? 
+---
+Worauf ist beim Einsatz mit einer Tauchpumpe zu achten? 
 
 ✓ Tauchpumpe an vorgesehener Öse oder Griff sichern 
 
  
 
-82. Wie sind Tauchpumpen nach einem Einsatz zu behandeln? 
+---
+Wie sind Tauchpumpen nach einem Einsatz zu behandeln? 
 
 ✓ Nach jeder Verwendung sollte die Unterwasserpumpe mit Frischwasser 
 gespült werden 
@@ -850,7 +932,8 @@ gespült werden
 
  
 
-83. Was muss mit einer angeschnittenen Schnittschutzhose passieren? 
+---
+Was muss mit einer angeschnittenen Schnittschutzhose passieren? 
 
 ✓ Ausscheiden / Entsorgen 
 
@@ -859,7 +942,8 @@ Kennzeichnung)
 
  
 
-84. Warum soll bei Feuerwehreinsätzen, bei denen mit Geräten der Feuerwehr gearbeitet wird, der Stromerzeuger der Feuerwehr verwendet werden? 
+---
+Warum soll bei Feuerwehreinsätzen, bei denen mit Geräten der Feuerwehr gearbeitet wird, der Stromerzeuger der Feuerwehr verwendet werden? 
 
 ✓ Um elektrische Geräte meines Fahrzeuges unabhängig vom Festnetz zu 
 betreiben. 
@@ -870,7 +954,8 @@ betreiben.
 
  
 
-85. Auf welche Gefahren ist beim Arbeiten mit Trennschleifer und Säbelsäge zu achten? 
+---
+Auf welche Gefahren ist beim Arbeiten mit Trennschleifer und Säbelsäge zu achten? 
 
 ✓ Verletzungsgefahr durch Funkenflug für Einsatzkräfte und Patient*innen 
 
@@ -878,7 +963,8 @@ betreiben.
 
  
 
-86. Welche Gedanken muss ich mir vor dem Einsatz kraftbetriebener Geräte machen? 
+---
+Welche Gedanken muss ich mir vor dem Einsatz kraftbetriebener Geräte machen? 
 
 ✓ Einsatzgrenzen wie Hitze, Wasser, EX-Bereiche, ... 
 
@@ -886,7 +972,8 @@ betreiben.
 
  
 
-87. Was ist beim Ausleuchten einer Einsatzstelle mittels Lichtfluter und Stativ zu beachten? 
+---
+Was ist beim Ausleuchten einer Einsatzstelle mittels Lichtfluter und Stativ zu beachten? 
 
 ✓ Blendfrei für Einsatzkräfte und Patient*innen aufstellen 
 
@@ -896,7 +983,8 @@ betreiben.
 
 Fragen zum Modul „Schadstoffeinsatz“ 
 
-88. Was bedeuten die obere bzw. untere Zahl auf einer orangen Warntafel? 
+---
+Was bedeuten die obere bzw. untere Zahl auf einer orangen Warntafel? 
 
 ✓ Obere Zahl: Gefahrennummer 
 
@@ -904,7 +992,8 @@ Fragen zum Modul „Schadstoffeinsatz“
 
  
 
-89. Was bedeutet eine leere orange Warntafel? 
+---
+Was bedeutet eine leere orange Warntafel? 
 
 ✓ Stückguttransport oder 
 
@@ -912,13 +1001,15 @@ Fragen zum Modul „Schadstoffeinsatz“
 
  
 
-90. Welche Farbkennzeichnung hat eine Gasflasche mit entzündbarem Gas als Inhalt? 
+---
+Welche Farbkennzeichnung hat eine Gasflasche mit entzündbarem Gas als Inhalt? 
 
 ✓ Rote Schulterfarbe 
 
  
 
-91. Nenne drei Punkte der Einsatzhygiene an der Einsatzstelle. 
+---
+Nenne drei Punkte der Einsatzhygiene an der Einsatzstelle. 
 
 ✓ An der Einsatzstelle nicht essen, nicht trinken und nicht rauchen 
 
@@ -933,7 +1024,8 @@ bei Kontamination ablegen
 
  
 
-92. Erkläre das Farbschema am DEKO-Platz. 
+---
+Erkläre das Farbschema am DEKO-Platz. 
 
 ✓ Rot – unreiner Bereich 
 
@@ -943,7 +1035,8 @@ bei Kontamination ablegen
 
  
 
-93. Wo erhält man weiterführende Informationen mit der Gefahrennummer bzw. Stoffnummer? 
+---
+Wo erhält man weiterführende Informationen mit der Gefahrennummer bzw. Stoffnummer? 
 
 ✓ Gefahrgut-Blattler  
 
@@ -953,7 +1046,8 @@ bei Kontamination ablegen
 
  
 
-94. Nenne die Schutzstufen der Schutzausrüstung! 
+---
+Nenne die Schutzstufen der Schutzausrüstung! 
 
 ✓ Stufe 1: Persönliche Schutzausrüstung  
 
@@ -965,7 +1059,8 @@ bei Kontamination ablegen
 
  
 
-95. Nenne die Zonen der Schadstoff-Einsatzstelle von Innen nach Außen! 
+---
+Nenne die Zonen der Schadstoff-Einsatzstelle von Innen nach Außen! 
 
 ✓ Wirkzone  
 
@@ -981,7 +1076,8 @@ bei Kontamination ablegen
 
 Fragen zum Modul „Taktik“ 
 
-96. Wie lautet das Befehlsschema?  
+---
+Wie lautet das Befehlsschema?  
 
 ✓ Lage 
 
@@ -995,7 +1091,8 @@ Fragen zum Modul „Taktik“
 
  
 
-97. Welche Inhalte sind im Punkt „Lage“ des Befehlsschemas zu berücksichtigen? 
+---
+Welche Inhalte sind im Punkt „Lage“ des Befehlsschemas zu berücksichtigen? 
 
 ✓ Gefahrenlage (besondere Gefahren; wichtige Elemente, welche für die 
 Durchführung notwendig sind) 
@@ -1006,19 +1103,22 @@ Durchführung notwendig sind)
 
  
 
-98. Was soll der Punkt „Entschluss“ des Befehlsschemas beinhalten? 
+---
+Was soll der Punkt „Entschluss“ des Befehlsschemas beinhalten? 
 
 ✓ Das zu erreichende (Einsatz-)Ziel 
 
  
 
-99. Was soll der Punkt „Durchführung“ des Befehlsschemas beinhalten? 
+---
+Was soll der Punkt „Durchführung“ des Befehlsschemas beinhalten? 
 
 ✓ Wer macht was und womit? (Gliederung der Einsatzkräfte, Einzelaufträge) 
 
  
 
-100. Aus welchen Elementen besteht das Führungsverfahren? 
+---
+Aus welchen Elementen besteht das Führungsverfahren? 
 
 ✓ Auftrag (Auftraggeber*in: Alarmierende Stelle bzw. Führungskraft) 
 
@@ -1037,7 +1137,8 @@ Möglichkeiten – Priorisieren)
 
 Fragen zum Modul „Technik“ 
 
-101. Was besagt die „Goldene Regel der Mechanik“ und wo findet sie in der Praxis ihre Anwendung? 
+---
+Was besagt die „Goldene Regel der Mechanik“ und wo findet sie in der Praxis ihre Anwendung? 
 
 ✓ Alles was an Weg gewonnen wird, geht an Kraft verloren und umgekehrt 
 
@@ -1045,13 +1146,15 @@ Fragen zum Modul „Technik“
 
  
 
-102. Dir steht ein Greifzug mit 15 kN Zugkraft zur Verfügung: Trage in der nachfolgenden Zeichnung die wirkenden Kräfte in den Seilsträngen und an den Anschlagpunkten ein. Wie groß darf die Last maximal sein, wenn ich sie gemäß der Zeichnung bewegen möchte? 
+---
+Dir steht ein Greifzug mit 15 kN Zugkraft zur Verfügung: Trage in der nachfolgenden Zeichnung die wirkenden Kräfte in den Seilsträngen und an den Anschlagpunkten ein. Wie groß darf die Last maximal sein, wenn ich sie gemäß der Zeichnung bewegen möchte? 
 
 ✓ Siehe PDF
 
  
 
-103. Zu welchen sechs Punkten musst du dir bei der Durchführung einer Fahrzeugbergung Gedanken machen? 
+---
+Zu welchen sechs Punkten musst du dir bei der Durchführung einer Fahrzeugbergung Gedanken machen? 
 
 ✓ Fahrzeuggewicht 
 
@@ -1067,7 +1170,8 @@ Fragen zum Modul „Technik“
 
  
 
-104. Ein Klein-LKW mit 6 t steht auf einer abschüssigen Wiese. Die Neigung der Wiese beträgt 12°. Ermittle die benötigte Zugkraft mittels der beiliegenden Bergetabelle. Kann der Klein-LKW mittels Greifzug (15 kN) im direkten Zug von der Feuerwehr geborgen werden? 
+---
+Ein Klein-LKW mit 6 t steht auf einer abschüssigen Wiese. Die Neigung der Wiese beträgt 12°. Ermittle die benötigte Zugkraft mittels der beiliegenden Bergetabelle. Kann der Klein-LKW mittels Greifzug (15 kN) im direkten Zug von der Feuerwehr geborgen werden? 
 
 ✓ Rollwiderstand: 8,5 kN 
 
@@ -1079,7 +1183,8 @@ Fragen zum Modul „Technik“
 Mindestens eine lose Rolle müsste eingeschert werden. 
 
  
-105. Ein Geländewagen mit 2.500 kg steht auf einer Böschung mit einer Neigung vom 8°. Wie groß ist der Steigungswiderstand? 
+---
+Ein Geländewagen mit 2.500 kg steht auf einer Böschung mit einer Neigung vom 8°. Wie groß ist der Steigungswiderstand? 
 
 ✓ 2.500 kg = 25 kN 
 
@@ -1089,7 +1194,8 @@ Mindestens eine lose Rolle müsste eingeschert werden.
 
  
 
-106.  Welche Anschlagmittel kennst du? 
+---
+ Welche Anschlagmittel kennst du? 
 
 ✓ Stahlseile 
 
@@ -1101,7 +1207,8 @@ Mindestens eine lose Rolle müsste eingeschert werden.
 
 
  
-107. Welche Möglichkeiten gibt es, um das Gewicht einer Last zu ermitteln? 
+---
+Welche Möglichkeiten gibt es, um das Gewicht einer Last zu ermitteln? 
 
 ✓ Zulassungsschein eines Fahrzeugs 
 
@@ -1115,13 +1222,15 @@ Mindestens eine lose Rolle müsste eingeschert werden.
 
  
 
-108. Bezeichne die beiden dargestellten Hebel. Beschrifte die verschiedenen Punkte laut Hebelgesetz. Bei welchem der beiden Hebel (jeweils eine Brechstange mit 1 m Länge) ist bei gleicher Last der Kraftaufwand geringer? Die Abkürzungen in den Bildern am Prüfungsbogen müssen entfernt werden uns sind von den Teilnehmenden auszufüllen. 
+---
+Bezeichne die beiden dargestellten Hebel. Beschrifte die verschiedenen Punkte laut Hebelgesetz. Bei welchem der beiden Hebel (jeweils eine Brechstange mit 1 m Länge) ist bei gleicher Last der Kraftaufwand geringer? Die Abkürzungen in den Bildern am Prüfungsbogen müssen entfernt werden uns sind von den Teilnehmenden auszufüllen. 
 
 ✓ Bei gleicher Last ist der Kraftaufwand mit dem einarmigen Hebel geringer 
 
  
 
-109. Wie lautet das Hebelgesetz? 
+---
+Wie lautet das Hebelgesetz? 
 
 ✓ Kraft x Kraftarm = Last x Lastarm 
 
@@ -1130,7 +1239,8 @@ anzuheben
 
  
 
-110. Welche Aufgaben und Tätigkeiten fallen in den Aufgabenbereich des „Inneren Retters“? 
+---
+Welche Aufgaben und Tätigkeiten fallen in den Aufgabenbereich des „Inneren Retters“? 
 
 ✓ Betreuung und Schutz von Patient*innen 
 
@@ -1154,7 +1264,8 @@ ausgelösten Airbags sind noch vorhanden
 
  
 
-111. Welche Gläser sind in PKW´s verbaut, wie können diese entfernt werden und welche Sicherungsmaßnahmen sind notwendig? 
+---
+Welche Gläser sind in PKW´s verbaut, wie können diese entfernt werden und welche Sicherungsmaßnahmen sind notwendig? 
 
 ✓ Einscheibensicherheitsglas (ESG): Seiten- und Heckscheiben 
 Kann mittels Federkörner zerstört werden. Vor dem Zerstören der Scheibe 
@@ -1178,7 +1289,8 @@ Kann mit Glassäge oder Säbelsäge geschnitten werden
 
  
 
-112. Was bedeuten die vier Buchstaben der AUTO-Regel? 
+---
+Was bedeuten die vier Buchstaben der AUTO-Regel? 
 
 ✓ A: Austretende Stoffe 
 
@@ -1190,7 +1302,8 @@ Kann mit Glassäge oder Säbelsäge geschnitten werden
 
  
 
-113. Welche Tätigkeiten kann die ersteintreffende Feuerwehr, wenn sie lediglich über ein Basisfahrzeug verfügt, bei einem Verkehrsunfall mit Menschenrettung durchführen? 
+---
+Welche Tätigkeiten kann die ersteintreffende Feuerwehr, wenn sie lediglich über ein Basisfahrzeug verfügt, bei einem Verkehrsunfall mit Menschenrettung durchführen? 
 
 ✓ Absichern der Einsatzstelle 
 
@@ -1208,7 +1321,8 @@ Kann mit Glassäge oder Säbelsäge geschnitten werden
 
  
 
-114.  Was bedeutet eine aktivierte Warnblinkanlage? 
+---
+ Was bedeutet eine aktivierte Warnblinkanlage? 
 
 ✓ Dass das Fahrzeug noch nicht stromlos ist. Die Batterie wird nicht gleich zu 
 Beginn abgeklemmt, sondern erst wenn die elektrischen Verbraucher nicht 
@@ -1220,7 +1334,8 @@ wurden.
 
  
 
-115. Welche Informationen können aus dem Rettungsdatenblatt entnommen werden? 
+---
+Welche Informationen können aus dem Rettungsdatenblatt entnommen werden? 
 
 ✓ Wo sind Batterien verbaut 
 
@@ -1241,7 +1356,8 @@ wurden.
 ✓ Wo sind Deaktivierungsmöglichkeiten für das HV-System verbaut 
  
 
-116. Erkläre den Unterschied zwischen Versorgungs- und Befreiungsöffnung. 
+---
+Erkläre den Unterschied zwischen Versorgungs- und Befreiungsöffnung. 
 
 ✓ Die Versorgungsöffnung dient zur Versorgung des Patienten bzw. der 
 Patientin durch den Rettungsdienst oder den Notarzt bzw. die Notärztin. 
@@ -1258,7 +1374,8 @@ Patientin in weiterer Folge aus dem Unfallfahrzeug gerettet wird.
 
  
 
-117. Aus welchen fünf Punkten setzen sich die Standardeinsatzmaßnahmen bei einem Verkehrsunfall mit Menschenrettung zusammen? 
+---
+Aus welchen fünf Punkten setzen sich die Standardeinsatzmaßnahmen bei einem Verkehrsunfall mit Menschenrettung zusammen? 
 
 ✓ Lageerkundung 
 
@@ -1272,7 +1389,8 @@ Patientin in weiterer Folge aus dem Unfallfahrzeug gerettet wird.
 
 
  
-118. Was muss bei einem Verkehrsunfall mit einer eingeklemmten Person in punkto AIRBAGS berücksichtigt werden? 
+---
+Was muss bei einem Verkehrsunfall mit einer eingeklemmten Person in punkto AIRBAGS berücksichtigt werden? 
 
 ✓ Erkundung welche Airbags ausgelöst haben und welche nicht. 
 
@@ -1301,7 +1419,8 @@ wo sich die Auslöseelemente (Treibgasgeneratoren) befinden
 
  
 
-119. Welche Gerätschaften zum Heben von Lasten gibt es? 
+---
+Welche Gerätschaften zum Heben von Lasten gibt es? 
 
 ✓ Brechstange 
 
@@ -1320,7 +1439,8 @@ Zugkettensatz
 
  
 
-120. Welche Gerätschaften werden zum Heben mittels Hebekissen benötigt? 
+---
+Welche Gerätschaften werden zum Heben mittels Hebekissen benötigt? 
 
 ✓ Luftquelle (Druckluftflasche, Luft vom Einsatzfahrzeug, stationäre 
 Luftversorgung oder Kompressor) 
@@ -1338,7 +1458,8 @@ Luftversorgung oder Kompressor)
 
  
 
-121. Nenne 4 Punkte, welche beim Heben von Lasten generell zu berücksichtigen sind! 
+---
+Nenne 4 Punkte, welche beim Heben von Lasten generell zu berücksichtigen sind! 
 
 ✓ Richtige Gerätschaft entsprechend der Last auswählen 
 
@@ -1358,7 +1479,8 @@ Gegenstände (z.B. beim Hebekissen)
 
  
 
-122. Erkläre den Aufbau eines Mini-Hebekissens, was am „Typenschild“ abgelesen werden kann und worauf beim Arbeiten mit Mini-Hebekissen geachtet werden muss. 
+---
+Erkläre den Aufbau eines Mini-Hebekissens, was am „Typenschild“ abgelesen werden kann und worauf beim Arbeiten mit Mini-Hebekissen geachtet werden muss. 
 
 ✓ Stahl- oder Aramid-Einlage, darauf ist die Gummischicht vulkanisiert 
 
@@ -1394,7 +1516,8 @@ Rückschlagventil)
 
  
 
-123. Aus welchen Bauteilen besteht ein „Büffelheber“ / Hydraulikheber?  
+---
+Aus welchen Bauteilen besteht ein „Büffelheber“ / Hydraulikheber?  
 
 ✓ Standfuß 
 
@@ -1406,13 +1529,15 @@ Rückschlagventil)
 
  
 
-124. Nach welchem Prinzip funktioniert ein „Büffelheber“/Hydraulikheber? 
+---
+Nach welchem Prinzip funktioniert ein „Büffelheber“/Hydraulikheber? 
 
 ✓ Funktion: Nach dem hydraulischen Prinzip 
 
  
 
-125. Was sind die Vor- bzw. Nachteile eines „Büffelhebers“/Hydraulikhebers? 
+---
+Was sind die Vor- bzw. Nachteile eines „Büffelhebers“/Hydraulikhebers? 
 
 ✓ Vorteil: Weniger Platzbedarf als beim Kurbeln notwendig 
 
@@ -1432,7 +1557,8 @@ auch mehr Freiraum zwischen Aufstellfläche und Last
 
  
 
-126. Welche Gefahren sind bei der Verwendung des Spreizers (vom hydraulischen Rettungsgerät) beim Heben von Lasten besonders zu beachten? 
+---
+Welche Gefahren sind bei der Verwendung des Spreizers (vom hydraulischen Rettungsgerät) beim Heben von Lasten besonders zu beachten? 
 
 ✓ Je höher eine Last angehoben wird, umso kleiner wird die Auflagefläche an 
 den Spreizerspitzen und umso größer die Gefahr, dass der Spreizer seitlich 
