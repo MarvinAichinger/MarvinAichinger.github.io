@@ -1,12 +1,12 @@
 let writeButton = document.querySelector("#write");
 
 writeButton.addEventListener("click", async () => {
-  alert("User clicked write button");
+  document.write("User clicked write button");
   try {
     const ndef = new NDEFReader();
     await ndef.write("Hello world!");
-    alert("> Message written");
+    document.write("> Message written");
   } catch (error) {
-    alert("Argh! " + error);
+    document.write("Argh! " + error);
   }
 });
